@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "08d4d9d862113283",
+    "type": "split",
+    "children": [
+      {
+        "id": "f91b05c60f27724d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ff5d7891c7bae45",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db37e4d0d14d0945",
+    "type": "split",
+    "children": [
+      {
+        "id": "15e419860e446db2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1080c55d67446116",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "21a8a2a2fbc1a62b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7d4dbe4985e92d7b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "237b14ff4c4a58fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "9648f01564812f2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3212607cae45b025",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e700e990afaf3088",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "95aa77dc6a129358",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "419d6da63fa3f92f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1080c55d67446116",
+  "lastOpenFiles": [
+    "Тренинг/первое занятие",
+    "Тренинг",
+    "Тренинг/первое занятие/Первое занятие с тренером.md",
+    "Untitled.canvas"
+  ]
+}
