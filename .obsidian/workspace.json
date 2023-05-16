@@ -11,8 +11,12 @@
             "id": "445c268dcf9661bb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Тренинг/вопросы к Саньку/Про переписки.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Тренинг/вопросы к Саньку/Про переписки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Тренинг/вопросы к Саньку/Про переписки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Тренинг/вопросы к Саньку/Про переписки.md"
+              }
             }
           }
         ]
@@ -139,6 +147,9 @@
   },
   "active": "445c268dcf9661bb",
   "lastOpenFiles": [
+    "Тренинг/вопросы к Саньку/Про подходы.md",
+    "Тренинг/вопросы к Саньку/Про переписки.md",
+    "Тренинг/вопросы к Саньку",
     "Тренинг/занятие 2/pics/Pasted image 20230516141636.png",
     "Тренинг/занятие 1/Подходы. Социальный.md",
     "Тренинг/занятие 1/Подходы. Директ 1.0.md",
