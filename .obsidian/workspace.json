@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "09dfe1bcf8f181df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Тренинг/первое занятие/Подходы. Социальный.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Тренинг/первое занятие/Подходы. Социальный.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Тренинг/первое занятие/Подходы. Социальный.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -145,11 +158,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ff5d7891c7bae45",
+  "active": "09dfe1bcf8f181df",
   "lastOpenFiles": [
+    "Тренинг/первое занятие/Подходы. Социальный.md",
+    "Untitled.md",
     "Pasted image 20230516132605.png",
     "Тренинг/первое занятие/внешний вид.md",
-    "Тренинг/первое занятие/Подходы. Социальный.md",
     "Тренинг/первое занятие/привлекательные стороны мужчины.md",
     "Тренинг/первое занятие/невербалика. основы.md",
     "Тренинг/первое занятие/соблазнение. ключевые моменты.md",
