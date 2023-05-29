@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4564b484676344e4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.4"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "445c268dcf9661bb",
+  "active": "4564b484676344e4",
   "lastOpenFiles": [
     "Тренинг/вопросы к Саше/Про переписки.md",
     "Тренинг/вопросы к Саше/Вопросы от 22 мая....md",
